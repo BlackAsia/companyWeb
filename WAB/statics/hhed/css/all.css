@@ -2697,7 +2697,7 @@
 }
 
 #footer .ft_01 .ft_01Sa .ft_01Rg .ftUl .ftLi .ftLiSa .ftLiTi {
-    margin-bottom: 30px;
+    /* margin-bottom: 30px; */
     position: relative;
     padding-left: 14px;
 }
@@ -2723,8 +2723,8 @@
 }
 
 #footer .ft_01 .ft_01Sa .ft_01Rg .ftUl .ftLi .ftLiSa .ftLiCo .ftLiTe {
-    display: flex;
-    align-items: flex-start;
+    /* display: flex;
+    align-items: flex-start; */
     margin-bottom: 10px;
 }
 
