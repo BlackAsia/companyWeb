@@ -505,7 +505,7 @@
     width: 0%;
     height: 100%;
     left: 0;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     transform: skew(-13deg);
     -webkit-transform: skew(-31deg);
     -moz-transform: skew(-31deg);
@@ -805,7 +805,7 @@
 
     #so01Sw>.swiper-button-prev::before,
     #so01Sw>.swiper-button-next::before {
-        background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+        background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     }
 
     #so01Sw>.swiper-button-prev>i,
@@ -971,7 +971,7 @@
     content: "";
     width: 10px;
     height: 40px;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     right: -6%;
     top: -16%;
 }
@@ -981,7 +981,7 @@
     content: "";
     width: 0%;
     height: 100%;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     left: 0;
     top: 0;
     z-index: -1;
@@ -1166,7 +1166,7 @@
     height: 28%;
     right: -1%;
     top: -3%;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     opacity: 0;
     transition: all 0.4s ease;
 }
@@ -1408,7 +1408,7 @@
     height: 80%;
     right: -6%;
     top: -14%;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
 }
 
 .soma04 .so04Sa .so04_01 .so04Mo::after {
@@ -1416,7 +1416,7 @@
     content: "";
     width: 0%;
     height: 100%;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     left: 0;
     top: 0;
     z-index: -1;
@@ -2366,7 +2366,7 @@
     height: 100%;
     left: 0;
     top: 0;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     z-index: -1;
     transition: all 0.3s ease;
 }
@@ -2710,7 +2710,7 @@
     left: 0;
     top: 50%;
     transform: translateY(-50%);
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     border-radius: 2px;
     overflow: hidden;
 }
@@ -3095,7 +3095,7 @@
     height: 100%;
     left: 0;
     top: 0;
-    background: linear-gradient(270deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(270deg, #4facfe 0%, #00f2fe 100%);
     opacity: 0;
     transition: all 0.5s ease;
 }
@@ -3487,7 +3487,7 @@
     content: "";
     width: 70px;
     height: 5px;
-    background: linear-gradient(270deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(270deg, #4facfe 0%, #00f2fe 100%);
     left: 0;
     bottom: 0;
 }
@@ -3640,7 +3640,7 @@
     height: 80%;
     right: -6%;
     top: -14%;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
 }
 
 .cont .contFor .contForSa form .information .forBtm .forBtm_02::after {
@@ -3648,7 +3648,7 @@
     content: "";
     width: 100%;
     height: 100%;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     left: 0;
     top: 0;
     z-index: -1;
@@ -3945,7 +3945,7 @@
     height: 80%;
     right: -6%;
     top: -14%;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
 }
 
 .newDe .newDeSa .newDe_01 .newDe_01Bt .newDe_01Bt2::after {
@@ -3953,7 +3953,7 @@
     content: "";
     width: 0%;
     height: 100%;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     left: 0;
     top: 0;
     z-index: -1;
@@ -4032,7 +4032,7 @@
     content: "";
     width: 0%;
     height: 10px;
-    background: linear-gradient(270deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(270deg, #4facfe 0%, #00f2fe 100%);
     left: 0;
     bottom: 0;
     transition: all 0.5s ease;
@@ -4223,7 +4223,7 @@
     content: "";
     width: 0%;
     height: 100%;
-    background: linear-gradient(270deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(270deg, #4facfe 0%, #00f2fe 100%);
     left: 0;
     top: 0;
     z-index: -1;
@@ -4373,7 +4373,7 @@
     height: 100%;
     left: 0;
     top: 0;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     z-index: -1;
     transition: all 0.3s ease;
 }
@@ -4429,7 +4429,7 @@
     content: "";
     width: 0%;
     height: 10px;
-    background: linear-gradient(270deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(270deg, #4facfe 0%, #00f2fe 100%);
     left: 0;
     bottom: 0;
     transition: all 0.5s ease;
@@ -4683,7 +4683,7 @@
     height: 62%;
     right: 1.1%;
     top: -2%;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     transform: skew(-12deg);
     -webkit-transform: skew(-12deg);
     -moz-transform: skew(-12deg);
@@ -5048,7 +5048,7 @@
     height: 100%;
     left: 0;
     top: 0;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     z-index: -1;
     transition: all 0.3s ease;
 }
@@ -5110,7 +5110,7 @@
     margin: 0;
     margin-right: 23.2%;
     transition: all 0.5s ease;
-    background: linear-gradient(270deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(270deg, #4facfe 0%, #00f2fe 100%);
     opacity: 1;
     position: relative;
 
@@ -5535,7 +5535,7 @@
     height: 100%;
     left: 0;
     top: 0;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     z-index: -1;
     transition: all 0.3s ease;
 }
@@ -5689,7 +5689,7 @@
     content: "";
     width: 10px;
     height: 40px;
-    background: linear-gradient(270deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(270deg, #4facfe 0%, #00f2fe 100%);
     right: -6%;
     top: -16%;
 }
@@ -5699,7 +5699,7 @@
     content: "";
     width: 0%;
     height: 100%;
-    background: linear-gradient(270deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(270deg, #4facfe 0%, #00f2fe 100%);
     left: 0;
     top: 0;
     z-index: -1;
@@ -5972,7 +5972,7 @@
     content: "";
     width: 10px;
     height: 40px;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     right: -6%;
     top: -16%;
 }
@@ -5982,7 +5982,7 @@
     content: "";
     width: 0%;
     height: 100%;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     left: 0;
     top: 0;
     z-index: -1;
@@ -6219,7 +6219,7 @@
     height: 100%;
     left: 0;
     top: 0;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     z-index: -1;
     transition: all 0.3s ease;
 }
@@ -6275,7 +6275,7 @@
     content: "";
     width: 70px;
     height: 5px;
-    background: linear-gradient(270deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(270deg, #4facfe 0%, #00f2fe 100%);
     left: 0;
     bottom: 0;
 }
@@ -6344,7 +6344,7 @@
     content: "";
     width: 10px;
     height: 40px;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     right: -6%;
     top: -16%;
 }
@@ -6354,7 +6354,7 @@
     content: "";
     width: 0%;
     height: 100%;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     left: 0;
     top: 0;
     z-index: -1;
@@ -6458,7 +6458,7 @@
 
 .proDe02 .proDe02Sa .proDe02Box .proDe02Box_01 {
     border-radius: 10px 10px 0px 0px;
-    background: var(--Linear, linear-gradient(270deg, #00B1A9 0%, #0092BE 100%));
+    background: var(--Linear, linear-gradient(270deg, #4facfe 0%, #00f2fe 100%));
     padding: 18px 5.4%;
 }
 
@@ -6621,7 +6621,7 @@
     height: 100%;
     left: 0;
     top: 0;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     z-index: -1;
     transition: all 0.3s ease;
 }
@@ -6714,7 +6714,7 @@
 
 .pro .proSa .pro_01 .pro_01Sa .pro_01He {
     border-radius: 15px 15px 0px 0px;
-    background: linear-gradient(270deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(270deg, #4facfe 0%, #00f2fe 100%);
     padding: 25px 26px;
 }
 
@@ -6751,7 +6751,7 @@
     height: 100%;
     left: 0;
     top: 0;
-    background: linear-gradient(270deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(270deg, #4facfe 0%, #00f2fe 100%);
     z-index: -1;
     opacity: 0;
     transition: all 0.5s ease;
@@ -6832,7 +6832,7 @@
     height: 100%;
     left: 0;
     top: 0;
-    background: linear-gradient(270deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(270deg, #4facfe 0%, #00f2fe 100%);
     opacity: 0;
     z-index: -1;
     transition: all 0.5s ease;
@@ -7132,7 +7132,7 @@
     content: "";
     width: 10px;
     height: 40px;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     right: -8%;
     top: -16%;
 }
@@ -7142,7 +7142,7 @@
     content: "";
     width: 0%;
     height: 100%;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     left: 0;
     top: 0;
     z-index: -1;
@@ -7195,7 +7195,7 @@
 
 .realm .subCon .realm_Ven .realm_Ven02 .realm_Ven02Ul::-webkit-scrollbar-thumb {
     border-radius: 0;
-    background: linear-gradient(270deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(270deg, #4facfe 0%, #00f2fe 100%);
 }
 
 .realm .subCon .realm_Ven .realm_Ven02 .realm_Ven02Ul .realm_Ven02Li {
@@ -7328,7 +7328,7 @@
     height: 100%;
     left: 0;
     top: 0;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     z-index: -1;
     transition: all 0.3s ease;
 }
@@ -7458,7 +7458,7 @@
     height: 5px;
     left: 0;
     bottom: 0;
-    background: linear-gradient(270deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(270deg, #4facfe 0%, #00f2fe 100%);
 }
 
 .realm_Co .realmSa .realm_Tab {
@@ -7493,7 +7493,7 @@
 }
 
 .realm_Co .realmSa .realm_Tab table thead {
-    background: var(--Linear, linear-gradient(270deg, #00B1A9 0%, #0092BE 100%));
+    background: var(--Linear, linear-gradient(270deg, #4facfe 0%, #00f2fe 100%));
     position: relative;
 }
 
@@ -7503,7 +7503,7 @@
     height: 100%;
     left: 0;
     bottom: -10px;
-    background: var(--Linear, linear-gradient(270deg, #00B1A9 0%, #0092BE 100%));
+    background: var(--Linear, linear-gradient(270deg, #4facfe 0%, #00f2fe 100%));
     position: absolute;
     z-index: -1;
 }
@@ -7668,7 +7668,7 @@
     content: "";
     width: 70px;
     height: 5px;
-    background: linear-gradient(270deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(270deg, #4facfe 0%, #00f2fe 100%);
     left: 0;
     bottom: 0;
 }
@@ -7925,7 +7925,7 @@
 }
 
 #searVe .seForm>.button {
-    background: linear-gradient(90deg, #0092BE 0%, #00B1A9 100%);
+    background: linear-gradient(90deg, #00f2fe 0%, #4facfe 100%);
     border-radius: 0;
     width: 8%;
     flex: 0 0 auto;
@@ -8037,7 +8037,7 @@
     content: "";
     width: 100%;
     height: 100%;
-    background: linear-gradient(180deg, #00B1A9 0%, #00B1A9 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #4facfe 100%);
     opacity: 0.8;
     left: 0;
     top: 0;
@@ -8249,7 +8249,7 @@
     width: 20px;
     height: 20px;
     transition: all 0.5s ease;
-    background: linear-gradient(270deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(270deg, #4facfe 0%, #00f2fe 100%);
     opacity: 1;
     position: relative;
     border-radius: 50%;
@@ -8319,7 +8319,7 @@
     height: 100%;
     left: 0;
     top: 0;
-    background: linear-gradient(180deg, #00B1A9 0%, #0092BE 100%);
+    background: linear-gradient(180deg, #4facfe 0%, #00f2fe 100%);
     z-index: -1;
     transition: all 0.3s ease;
 }
