@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+  <meta charset="utf-8" />
+  <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+  <meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+  <title>网站维护中 - 富森国际有限公司</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: "Microsoft YaHei", "SimHei", Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      overflow: hidden;
+    }
+
+    .maintenance-container {
+      text-align: center;
+    }
+
+    .maintenance-text {
+      font-size: 30px;
+      color: #ffffff;
+      display: inline-flex;
+      gap: 8px;
+    }
+
+    .maintenance-text span {
+      display: inline-block;
+      animation: scaleWave 0.5s ease-in-out infinite;
+    }
+
+    /* 为每个字符设置不同的动画延迟，形成从左到右逐个放大的效果 */
+    .maintenance-text span:nth-child(1) { animation-delay: 0s; }
+    .maintenance-text span:nth-child(2) { animation-delay: 0.2s; }
+    .maintenance-text span:nth-child(3) { animation-delay: 0.4s; }
+    .maintenance-text span:nth-child(4) { animation-delay: 0.6s; }
+    .maintenance-text span:nth-child(5) { animation-delay: 0.8s; }
+    .maintenance-text span:nth-child(6) { animation-delay: 1.0s; }
+    .maintenance-text span:nth-child(7) { animation-delay: 1.2s; }
+    .maintenance-text span:nth-child(8) { animation-delay: 1.4s; }
+    .maintenance-text span:nth-child(9) { animation-delay: 1.6s; }
+    .maintenance-text span:nth-child(10) { animation-delay: 1.8s; }
+    .maintenance-text span:nth-child(11) { animation-delay: 2.0s; }
+    .maintenance-text span:nth-child(12) { animation-delay: 2.2s; }
+    .maintenance-text span:nth-child(13) { animation-delay: 2.4s; }
+    .maintenance-text span:nth-child(14) { animation-delay: 2.6s; }
+    .maintenance-text span:nth-child(15) { animation-delay: 2.8s; }
+    .maintenance-text span:nth-child(16) { animation-delay: 3.0s; }
+    .maintenance-text span:nth-child(17) { animation-delay: 3.2s; }
+    .maintenance-text span:nth-child(18) { animation-delay: 3.4s; }
+    .maintenance-text span:nth-child(19) { animation-delay: 3.6s; }
+    .maintenance-text span:nth-child(20) { animation-delay: 3.8s; }
+
+    @keyframes scaleWave {
+      0%, 100% {
+        transform: scale(1);
+      }
+      50% {
+        transform: scale(1.8);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="maintenance-container">
+    <div class="maintenance-text" id="maintenanceText"></div>
+  </div>
+
+  <script>
+    // 文本内容
+    const text = "网站维护中，请耐心等待";
+    
+    // 将文本拆分为字符并创建span元素
+    const container = document.getElementById('maintenanceText');
+    const charCount = text.length;
+    const charInterval = 0.2; // 每个字符的间隔时间
+    const animationDuration = 0.5; // 单个字符动画时长
+    const totalDuration = charCount * charInterval + animationDuration; // 总循环时长
+    
+    for (let i = 0; i < charCount; i++) {
+      const span = document.createElement('span');
+      span.textContent = text[i];
+      // 动态设置动画延迟和时长，确保循环
+      const delay = i * charInterval;
+      span.style.animationDelay = delay + 's';
+      span.style.animationDuration = totalDuration + 's';
+      container.appendChild(span);
+    }
+  </script>
+</body>
+</html>

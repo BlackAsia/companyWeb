@@ -34,7 +34,7 @@
 }
 
 #ventricle .venSack .venLf .venLogo>a .venLogoSa img {
-    width: 188px;
+    height: 52px;
     max-width: 100%;
     transition: all 0.5s ease;
 }
@@ -1723,7 +1723,7 @@
 }
 
 .soma05 {
-    background-image: url(../images/so05bg.jpg);
+    background-image: url(../images/lianxi.png);
     overflow: hidden;
 }
 
